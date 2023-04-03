@@ -4,13 +4,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunbaskaran96&label=Profile%20views&color=0e75b6&style=flat" alt="arunbaskaran96" /> </p>
 
-- 🔭 My projects [Shopify](https://fascinating-dragon-43b7cd.netlify.app/)
+👨‍💻 Portfolio [https://effervescent-donut-ad7b3c.netlify.app/](https://effervescent-donut-ad7b3c.netlify.app/)
 
-- 🔭 My projects [OYO Rooms](https://lucky-brigadeiros-305061.netlify.app/)
+🔭 My Projects
 
-- 🔭 My projects [Chat Box](https://sensational-pudding-39ed14.netlify.app/)
+ 🔭  [Shopify](https://fascinating-dragon-43b7cd.netlify.app/)
+     <p> * Shopify is a real-time shopping web application where users can buy products from their homes. This application provides a very intuitive user experience and tries to make the shopping process as easy as possible.</p>
 
-- 👨‍💻 Portfolio [https://effervescent-donut-ad7b3c.netlify.app/](https://effervescent-donut-ad7b3c.netlify.app/)
+ 🔭  [OYO Rooms](https://lucky-brigadeiros-305061.netlify.app/)
+     <p> * This is a Hotel booking web application. Where you can book a hotel. If the Book button is disabled that is booked by someone else. And I have used all the CRUD operation in this website. After Booking you can check your booking details in history section.</p>
+
+ 🔭 [Chat Box](https://sensational-pudding-39ed14.netlify.app/)
+     <p> * It is a chat box web application,Where user can make friends and chat with them.Used and deployed all CRUD operations in this website in a very standard way using MERN stack.</p>
+
+ 🔭 Project 4 [Vehicle Service Bookin App](https://soft-lokum-1da8b3.netlify.app//)
+     <p> * It is a vehicle service web application where users can book for vehicle service from their homes.Used and deployed all CRUD operations in this website in a very standard way using MERN stack.</p>
+
 
 - 💬 Ask me about **React,Node js,MongoDB,Express js,Mongoose**
 
