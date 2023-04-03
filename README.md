@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **arundhi04101996@gmail.com**
 
-- 📄Resume [https://drive.google.com/file/d/12JhD5ZDqTzAnEkg2fU7P6EesIRsvDiBC/view](https://drive.google.com/file/d/12JhD5ZDqTzAnEkg2fU7P6EesIRsvDiBC/view)
+- 📄Resume [https://drive.google.com/file/d/12JhD5ZDqTzAnEkg2fU7P6EesIRsvDiBC/view](https://drive.google.com/file/d/1yOisFnZXY1A-ttm_5R09bBKF7eJJS650/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
